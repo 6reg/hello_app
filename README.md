@@ -1,9 +1,5 @@
-# Ruby on Rails Tutorial
+# Makin' Rails Apps
 
-## 'Hello, world!'
+## 'a rails app'
 
-This is the first application for the 
-[*Ruby on Rails Tutorial*]
-(https://www.railstutorial.org/)
-by [Michael Hartl](https://www.michaelhartl.com/).
-Hello, world!
+by [6reg](https://6reg.gq/).
